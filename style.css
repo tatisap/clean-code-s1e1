@@ -24,6 +24,7 @@
   }
 
 }
+
 .main {
   display: block;
   width: 500px;
@@ -117,7 +118,6 @@
 .task-list .button {
   vertical-align: middle;
 }
-
 .task-list__checkbox {
   margin: 0 10px;
 }
@@ -149,12 +149,10 @@
 .task-list__input {
   display: none;
 }
-
 .task-list__item_mode_edit .task-list__input {
   display: inline-block;
   width: 224px;
 }
-
 .task-list__item_mode_edit .task-list__text {
   display: none;
 }
